@@ -4,8 +4,6 @@
 
 # 🎓 **STUDENT SCORE PREDICTION**
 
----
-
 ## 🧾 **PROJECT DESCRIPTION**
 *Predict students' exam scores based on their study-related factors using regression techniques.*  
 
