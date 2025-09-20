@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="StudentScore.jpg" alt="Student Score Prediction Output" width="600"/>
+  <img src="Student.png" alt="Student Score Prediction Output" width="600"/>
 </p>
 
 # 🎓 **STUDENT SCORE PREDICTION**
